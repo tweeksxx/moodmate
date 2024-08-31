@@ -1,0 +1,12 @@
+Mood Selection and Suggestions:
+
+Users can select their current mood from a list of moods. Based on the selection, the app shows a list of suggested activities that match the mood.
+Adding Tasks to the Planner:
+
+The app allows users to add suggested tasks to their planner. The tasks are stored in a list, and a snack bar confirms the addition of each task.
+Viewing the Planner:
+
+Users can tap on the calendar icon in the top-right corner to view all tasks added to their planner. This opens a new screen (PlannerScreen) displaying a list of all the tasks added.
+PlannerScreen:
+
+This screen shows the list of all tasks the user has added to their planner. If no tasks have been added, it displays a message indicating that the planner is empty.
